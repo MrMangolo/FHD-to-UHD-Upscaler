@@ -1,0 +1,9 @@
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\bin\Debug\FourK.exe.config
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\bin\Debug\FourK.exe
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\bin\Debug\FourK.pdb
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\obj\Debug\FourK.csprojResolveAssemblyReference.cache
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\obj\Debug\FourK.Form1.resources
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\obj\Debug\FourK.Properties.Resources.resources
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\obj\Debug\FourK.csproj.GenerateResource.Cache
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\obj\Debug\FourK.exe
+c:\users\weissbacherd\documents\visual studio 2015\Projects\FourK\FourK\obj\Debug\FourK.pdb
